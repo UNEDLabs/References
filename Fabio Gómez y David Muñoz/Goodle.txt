@@ -1,0 +1,8 @@
+GOODLE:
+
+Evaluacion "modelo de caja negra".
+Evaluacion competitiva (rankings) y colaborativa (modular).
+Problemas personalizados para cada alumno --> contradiccion con evaluacion competitiva.
+Direccion: http://bono.us.es/sdocencia_developer
+username: inv19
+pass: 1234
